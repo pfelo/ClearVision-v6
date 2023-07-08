@@ -1,3 +1,6 @@
+/* CSS für Discord-Theme */
+@import url("https://discordstyles.github.io/TokyoNight/v2/TokyoNight.css");
+
 /* Hintergrundbild ersetzen */
 :root {
   --background-image: url("https://cdn.discordapp.com/attachments/1096472708235153580/1127252603760287775/TK.pfl.gif");
